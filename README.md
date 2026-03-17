@@ -1,5 +1,7 @@
 # 🧠 Mental Health Resource Finder — RAG App
 
+[![Try it Live](https://img.shields.io/badge/🚀_Try_it_Live-Hugging_Face_Spaces-blue?style=for-the-badge)](https://huggingface.co/spaces/iammsp-star/Mental-Health-RAG)
+
 An AI-powered **Retrieval-Augmented Generation (RAG)** application that helps users discover mental health resources, coping strategies, and professional guidance from curated PDF documents.
 
 Built with **Streamlit**, **LangChain**, and **ChromaDB** for fast, context-aware answers.
